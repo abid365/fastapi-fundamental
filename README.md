@@ -21,13 +21,6 @@ A simple **FastAPI** application demonstrating:
 
 ## 📂 Project Setup
 
-### 1️⃣ Clone the Repository
 
-git clone <your-repo-url>
-cd <your-repo-folder>
-###windows
-python -m venv venv
-.\venv\Scripts\Activate
-###macOS/Linux
-python3 -m venv venv
-source venv/bin/activate
+
+
