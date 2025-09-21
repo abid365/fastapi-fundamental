@@ -22,7 +22,7 @@ A simple **FastAPI** application demonstrating:
 ## 📂 Project Setup
 
 ### 1️⃣ Clone the Repository
-```bash
+
 git clone <your-repo-url>
 cd <your-repo-folder>
 ###windows
