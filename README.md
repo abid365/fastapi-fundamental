@@ -19,7 +19,7 @@ A simple **FastAPI** application demonstrating:
 
 ---
 
-## 📂 Project Setup
+
 
 
 
